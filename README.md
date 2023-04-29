@@ -2,6 +2,12 @@
 
 A (new) $\LaTeX$ speed-typesetting game. Test yourself in single-player mode, or in multi-player mode in a customizeable lobby with friends. See [credits](#credits)!
 
+Original site: https://texnique.xyz/
+
+Fork from: https://github.com/kumar-ish/fork-texnique
+
+Design Doc: https://docs.google.com/document/d/1euPiKWdezS95gOX0hyejV61wuGUwF_CCU9mGB02n8vk/edit?usp=sharing
+
 ## Setup
 
 ### Running locally
